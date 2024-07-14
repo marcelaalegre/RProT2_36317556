@@ -4,7 +4,7 @@
 <div class="card col-lg-3" style="width: 50%;">
 <h4>Registrar usuario</h4>
 <form action="welcome.php" method="post">
-<div class="card-body" media="(max-width:758px)">
+<div class="card-body" media="(max-width:768px)">
 <div class="mb-3">
     <label for="exampleFormControlInputl" class="form-label">Nombre</label>   
     <input name="nombre" type="text" class="form-control" placeholder="nombre">
