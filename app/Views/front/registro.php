@@ -1,7 +1,7 @@
 <div class="container mt-0 mb-0">
 <div class="card-header text-justify">
 <div class="row d-flex justify-content-center">
-<div class="card col-lg-3" style="width: 50%;">
+<div class="card col-lg-3" style="width: 40%;">
 <h4>Registrar usuario</h4>
 <form action="welcome.php" method="post">
 <div class="card-body" media="(max-width:768px)">
